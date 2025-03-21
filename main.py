@@ -1,3 +1,10 @@
+#1. Enable multifactor authentication
+#2. Use an App Password (Recommended)
+#Generate an App Password In  Google Account Security Settings:
+#Enable 2-Step Verification (Required to generate an App Password).
+#Copy the 16-character password (e.g., abcd 
+
+
 
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///C:\\Users\\Bongeka.Mpofu\\DB Browser for SQLite\\authenticate.db'
 
